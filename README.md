@@ -21,7 +21,7 @@ Python · PyTorch · MNE · NumPy · SciPy · scikit-learn
 
 ## Projects (in progress)
 
-| Project | Description | Status |Cc
+| Project | Description | Status |
 |---|---|---|
 | EEG Motor-Imagery Decoder | Classification on BCI Competition IV 2a dataset | In progress |
 | Neuralink Compression Challenge | Lossless compression of raw neural recording data | Planned |
